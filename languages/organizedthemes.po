@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: simple/layouts/post-meta.php:8
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: simple/includes/comment-functions.php:32
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: simple/includes/comment-functions.php:29
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: simple/includes/comment-functions.php:20
+#: simple/includes/comment-functions.php:36
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: simple/layouts/post-meta.php:8
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: simple/content-video.php:47
+#: simple/content-image.php:43
+#: simple/content.php:43
+msgid "<span class=\"more-link\">Read more</span>"
+msgstr ""
+
+#. Text in function
+#: simple/content-video.php:63
+#: simple/content-image.php:59
+#: simple/content.php:59
+msgid "<span class=\"more-tag\">Read more</span>"
+msgstr ""
+
+#. Text in function
+#: simple/inc/options-framework.php:251
+msgid "Clear"
+msgstr ""
+
+#. Text in function
+#: simple/inc/options-framework.php:242
+msgid "Click OK to reset. Any theme settings will be lost!  This can not be undone."
+msgstr ""
+
+#. Text in function
+#: simple/layouts/post-meta.php:8
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: simple/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: simple/inc/options-framework.php:251
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: simple/content-none.php:18
+msgid "It looks like the site needs some content. <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: simple/comments.php:40
+msgid "Newer comments"
+msgstr ""
+
+#. Text in echo
+#: simple/content-none.php:22
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: simple/comments.php:39
+msgid "Older comments"
+msgstr ""
+
+#. Text in function
+#: simple/layouts/page-pagination.php:1
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: simple/content-video.php:57
+#: simple/content-video.php:71
+#: simple/content-image.php:53
+#: simple/content-image.php:67
+#: simple/content.php:53
+#: simple/content.php:67
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: simple/includes/comment-functions.php:20
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: simple/content-video.php:57
+#: simple/content-video.php:71
+#: simple/content-image.php:53
+#: simple/content-image.php:67
+#: simple/content.php:53
+#: simple/content.php:67
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: simple/inc/options-framework.php:242
+msgid "Restore Defaults"
+msgstr ""
+
+#. Text in echo
+#: simple/inc/options-framework.php:241
+msgid "Save Options"
+msgstr ""
+
+#. Text in echo
+#: simple/searchform.php:11
+#: simple/searchform.php:12
+#: simple/searchform.php:13
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: simple/inc/options-framework.php:251
+msgid "Select Color"
+msgstr ""
+
+#. Text in echo
+#: simple/content-none.php:16
+msgid "Start Adding Content"
+msgstr ""
+
+#. Text in function
+#: simple/inc/options-framework.php:251
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: simple/content-none.php:24
+msgid "We could not find the content you\\'re looking for.  You can try searching for it here."
+msgstr ""
+
+#. Text in echo
+#: simple/includes/comment-functions.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""

@@ -1,0 +1,4 @@
+*** Reflow Changelog ***
+
+NOT YET RELEASED - version 1.0.0
+ * First release!
