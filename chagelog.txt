@@ -1,4 +1,4 @@
-*** Reflow Changelog ***
+*** Simple & Clean Theme Changelog ***
 
-NOT YET RELEASED - version 1.0.0
+October 15, 2013 - version 1.0.0
  * First release!
