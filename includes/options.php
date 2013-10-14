@@ -297,10 +297,10 @@ $options[] = array( "name" => __( 'Buttons', 'organizedthemes' ),
 $options[] = array( "name" => __( 'Advanced', 'organizedthemes' ),
 					"type" => "heading");
 	
-	$options[] = array( 'name' => __( 'Disable Google Fonts', 'organizedthemes' ),
-						'desc' => __( 'Turns off the output of Google fonts.', 'organizedthemes' ),
+	$options[] = array( 'name' => __( 'Enable Google Fonts', 'organizedthemes' ),
+						'desc' => __( 'Turns on the output of Google fonts.', 'organizedthemes' ),
 						'id' => 'disable_fonts',
-						'std' => false,
+						'std' => true,
 						'type' => 'checkbox' );
 										
 	$options[] = array( "name" => __( 'Custom CSS', 'organizedthemes' ),

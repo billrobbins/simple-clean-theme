@@ -23,7 +23,7 @@ if ( ! function_exists( 'organizedthemes_custom_css_hook' ) ):
 	
 	<?php 
 		
-		if ( !of_get_option( 'disable_fonts' ) ) {
+		if (of_get_option('disable_fonts', $single = true) != "" ) {
 		
 			$output = '';
 			$input = '';

@@ -661,7 +661,7 @@ p.post-meta,
 
 #content article {
 	padding-bottom: 20px;
-	margin-bottom: 80px;
+	margin-bottom: 40px;
 }
 
 .single #content article {
@@ -933,53 +933,11 @@ textarea#comment {
 
 .pagination {
 	text-align: center;
-	margin-bottom: 30px;
+	margin: 0 5% 30px;
 }
 
-.pagination a.next,
-.pagination a.prev {
-	position: relative;
-	font-family: 'Icons';
+.pagination a {
 	font-size: 28px;
-	top: -2px;
-	border: none;
-	color: #181919;
-	background: transparent;
-}
-
-.pagination a:hover.next,
-.pagination a:hover.prev {
-	color: #777777;
-	background: transparent;
-}
-
-.pagination a.next {
-	float: right;
-	padding: 0 5% 0 0;
-}
-
-.pagination a.prev {
-	float: left;
-	padding: 0 0 0 5%;
-}
-
-span.page-numbers.current {
-	padding: 3px 8px;
-	font-size: 20px;
-	color: #fff;
-	background-color: #777777;
-}
-
-a:hover.page-numbers {
-	color: #fff;
-	background-color: #777777;
-}
-
-a.page-numbers {
-	padding: 3px 8px;
-	font-size: 20px;
-	color: #fff;
-	background-color: #181919;
 }
 
 .page-links {

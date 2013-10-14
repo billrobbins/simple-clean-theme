@@ -163,7 +163,7 @@ add_action( 'wp_enqueue_scripts', 'options_typography_google_fonts' );
  
 function options_typography_enqueue_google_font($font) {
 	
-	if ( !of_get_option( 'disable_fonts' ) ) {
+	if ( of_get_option( 'disable_fonts' ) ) {
 	
 		$font = explode(',', $font);
 		$font = $font[0];

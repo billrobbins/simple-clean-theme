@@ -140,4 +140,7 @@
 	endif; // organizedthemes_fit_video_wrap
 	
 	
-	
+// Go to theme options after theme activated
+	if ( is_admin() and isset($_GET['activated'] ) and $pagenow == "themes.php" ) {
+		wp_redirect( 'themes.php?page=options-framework' );
+	}	
