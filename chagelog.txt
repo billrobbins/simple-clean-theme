@@ -1,4 +1,0 @@
-*** Simple & Clean Theme Changelog ***
-
-October 15, 2013 - version 1.0.0
- * First release!

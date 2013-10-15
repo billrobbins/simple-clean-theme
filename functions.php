@@ -14,7 +14,7 @@
  */
 
 // Define Version
-	define( 'SIMPLE_VERSION', '1.0.0' );
+	define( 'SIMPLE_VERSION', '1.0.1' );
 
 // options framework
 	if ( !function_exists( 'optionsframework_init' ) ) {
