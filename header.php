@@ -23,12 +23,6 @@
 	<!--Load WP Head-->
 	<?php wp_head(); ?>
 	
-	<?php if ( of_get_option('favicon', $single = true) != "" ) : ?>
-	<link rel="shortcut icon" href="<?php echo of_get_option('favicon'); ?>" type="image/x-icon" />
-	<?php endif; ?>
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
 </head>
 
 <body <?php body_class(); ?>>
