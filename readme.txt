@@ -15,4 +15,7 @@ tinynav.js -- MIT licesne
 html5.js -- MIT license
 respond.js -- MIT/GPL v2 license
 icon font from http://themes.alessioatzeni.com/html/brushed/ -- released with no license restrictions
-options framework -- GPL v2
+options framework (inc folder) -- GPL v2
+iris.js -- GPL v2
+color-picker.min.js -- GPL v2
+options-custom.js -- GPL v2
